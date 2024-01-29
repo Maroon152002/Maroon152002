@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Atharva Bankar
 -  👀 I’m interested in MERN Stack Frontend & Backend Development 
-- 🌱 I’m currently learning BCA 
+- 🌱 I have completed my BCA program from Brihan Maharashtra College of Commerce(BMCC) 
 - 💞️ I’m looking to collaborate on MERN stack Projects
 - 📫 I'm available on atharvabankar2002@gmail.com
 
